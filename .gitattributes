@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 # Auto detect text files and perform LF normalization
 * text=auto
 *.java linguist-language=Java
+=======
+*.rb linguist-language=Java
+>>>>>>> 8a730799026722cb8f08594cfd40dc5b14b0f8d4
